@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:cat_vision",
+
+		"origins:burn_in_daylight",
+		"novaorigins:is_undead"
+	],
+	"icon": "minecraft:redstone_wire",
+	"order": 10,
+	"impact": 3,
+	"name": "Vampire",
+	"description": "Vampire. Nuff said"
+}

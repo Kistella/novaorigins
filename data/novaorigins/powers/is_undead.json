@@ -1,0 +1,6 @@
+{
+	"type": "origins:entity_group",
+	"group": "undead",
+	"name": "undead",
+	"description": "A vampire is undead."
+}

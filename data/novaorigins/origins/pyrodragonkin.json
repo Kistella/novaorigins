@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:burning_wrath",
+		"origins:carnivore",
+		"origins:fire_immunity",
+		"origins:natural_armor",
+		"origins:elytra",
+		"novaorigins:fire_hit",
+		
+		"origins:hunger_over_time",
+		"origins:water_vulnerability",
+		"origins:more_exhaustion"
+	],
+	"icon": "minecraft:air",
+	"order": 10,
+	"impact": 2,
+	"name": "Pyro Dragon Kin",
+	"description": "Be a Fire Dragon"
+}
